@@ -1,0 +1,90 @@
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.exe.config
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.exe
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.pdb
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Dropbox.Api.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Newtonsoft.Json.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Dropbox.Api.xml
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Newtonsoft.Json.xml
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csprojAssemblyReference.cache
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.Form1.resources
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.Properties.Resources.resources
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.GenerateResource.cache
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.CoreCompileInputs.cache
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.CopyComplete
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.exe
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.pdb
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.TokenInput.resources
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.PlatformServices.dll
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.pdb
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.xml
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.pdb
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.xml
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.pdb
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.xml
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\KPI\5course2ndsemestr\Varava\dropbox_lab\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.exe.config
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.exe
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.pdb
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Dropbox.Api.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Dropbox.Api.xml
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.pdb
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.xml
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.xml
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.pdb
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.xml
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csprojAssemblyReference.cache
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.Form1.resources
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.Properties.Resources.resources
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.TokenInput.resources
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.GenerateResource.cache
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.CopyComplete
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.exe
+C:\Users\bogda\Desktop\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.pdb
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.exe.config
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.exe
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\StorageDestopClient.pdb
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Dropbox.Api.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Dropbox.Api.xml
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.pdb
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.xml
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Auth.xml
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.pdb
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Core.xml
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.Form1.resources
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.Properties.Resources.resources
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.TokenInput.resources
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.csproj.CopyComplete
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.exe
+C:\Users\admin\Desktop\базы данных\StorageDestopClient\StorageDestopClient\obj\Debug\StorageDestopClient.pdb
